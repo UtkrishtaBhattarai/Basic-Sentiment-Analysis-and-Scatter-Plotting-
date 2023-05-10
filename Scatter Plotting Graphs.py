@@ -23,6 +23,8 @@ print(a, b)
 
 # Plot the data and the line
 plt.scatter(X, Y)
+
+# Making use of linear regression line
 plt.plot(X, a*X + b, color='red')
 plt.xlabel('X')
 plt.ylabel('Y')
