@@ -20,7 +20,7 @@ b = random.uniform(0, 1)
 c = random.uniform(0, 1)
 
 # Define learning rate and number of epochs
-learning_rate = 0.0001
+learning_rate = 0.0003
 num_epochs = 10
 
 # Initialize history of feature weights update
